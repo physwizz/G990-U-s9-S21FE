@@ -5450,13 +5450,13 @@
 				kallsyms {
 					_stext = <0xffffffc0 0x10081000>;
 					_etext = <0xffffffc0 0x10f50000>;
-					kallsyms_offsets = <0xffffffc0 0x11342100>;
-					kallsyms_relative_base = <0xffffffc0 0x113c2c40>;
-					kallsyms_num_syms = <0xffffffc0 0x113c2c48>;
-					kallsyms_names = <0xffffffc0 0x113c2c50>;
-					kallsyms_markers = <0xffffffc0 0x11680a10>;
-					kallsyms_token_table = <0xffffffc0 0x11681220>;
-					kallsyms_token_index = <0xffffffc0 0x11681578>;
+					kallsyms_offsets = <0xffffffc0 0x11342a20>;
+					kallsyms_relative_base = <0xffffffc0 0x113c3560>;
+					kallsyms_num_syms = <0xffffffc0 0x113c3568>;
+					kallsyms_names = <0xffffffc0 0x113c3570>;
+					kallsyms_markers = <0xffffffc0 0x11681310>;
+					kallsyms_token_table = <0xffffffc0 0x11681b20>;
+					kallsyms_token_index = <0xffffffc0 0x11681e78>;
 					_sinittext = <0xffffffc0 0x11a20000>;
 					_einittext = <0xffffffc0 0x11a9dcc0>;
 					_end = <0xffffffc0 0x120e8000>;
